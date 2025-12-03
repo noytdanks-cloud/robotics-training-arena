@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FTC sim training arena",
+  "description": "A tactical 7x7 robot simulation game where you compete against an AI to score goals on towers while managing ammo and reloading mechanics.",
+  "requestFramePermissions": []
+}
